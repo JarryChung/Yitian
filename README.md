@@ -4,6 +4,8 @@
 
 ## 代码实现
 
+1. `call()` / `apply()` / `bind()` 的实现 [[code](./call-apply-bind.js)]
+
 ## 基础题目
 
 ## 由来
