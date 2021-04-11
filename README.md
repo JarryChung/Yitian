@@ -5,6 +5,7 @@
 ## 代码实现
 
 1. `call()` / `apply()` / `bind()` 的实现 [[code](./call-apply-bind.js)]
+2. Promise 的实现 [[code](./promise.js)]
 
 ## 基础题目
 
